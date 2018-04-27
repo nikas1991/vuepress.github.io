@@ -1,0 +1,12 @@
+{
+    "short_name": "PWA",
+    "name": "我的第一个PWA项目",
+    "icon": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        }
+    ],
+    "start_url": "index.html"
+}
